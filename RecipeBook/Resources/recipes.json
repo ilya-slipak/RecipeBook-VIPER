@@ -1,0 +1,397 @@
+{
+    "entities":
+    [
+        {
+            "identifier": "08919c86-3e37-419c-a959-d9ae14bde99e",
+            "title": "Classical Charlotte",
+            "description": "The original recipe of charlotte was created in Germany and implied a classical German dessert baked from wheat bread, whipped cream, fruit and liqueur.",
+            "preparation_time": "60 min.",
+            "isFavorite": false,
+            "image_id": "classical_charlotte",
+            "ingredients": [
+                {
+                    "title": "egg",
+                    "amount": "7"
+                },
+                {
+                    "title": "sugar",
+                    "amount": "2 cups"
+                },
+                {
+                    "title": "melted butter (or margarine + a piece for pan coating)",
+                    "amount": "0.5 cup"
+                },
+                {
+                    "title": "wheat flour",
+                    "amount": "2 cups"
+                },
+                {
+                    "title": "apples",
+                    "amount": "5"
+                },
+            ]
+        },
+        {
+            "identifier": "ac40f259-044d-4b93-8cdb-42c627b9a0cb",
+            "title": "Caesar",
+            "description": "A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its original form, this salad was prepared and served tableside.",
+            "preparation_time": "25 min.",
+            "isFavorite": false,
+            "image_id": "caesar",
+            "ingredients": [
+                {
+                    "title": "parmesan cheese",
+                    "amount": "60 g"
+
+                },
+                {
+                    "title": "baguettes",
+                    "amount": "120 g"
+                },
+                {
+                    "title": "salted butter (soft)",
+                    "amount": "60 g"
+                },
+                {
+                    "title": "egg",
+                    "amount": "1"
+                },
+                {
+                    "title": "garlic",
+                    "amount": "1 clove"
+                },
+                {
+                    "title": "lemon",
+                    "amount": "0.5"
+                },
+                {
+                    "title": "chicken fillet",
+                    "amount": "300 g",
+                },
+                {
+                    "title": "dijon mustard",
+                    "amount": "1 tsp"
+                },
+                {
+                    "title": "vegetable oil",
+                    "amount": "60 ml"
+                },
+                {
+                    "title": "worcestershire sauce",
+                    "amount": "1 tsp"
+                },
+                {
+                    "title": "romaine hearts",
+                    "amount": "2"
+                },
+                {
+                    "title": "parmesan cheese (for serving)",
+                    "amount": null
+                },
+                {
+                   "title": "salt",
+                   "amount": null
+                },
+                {
+                    "title": "pepper",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "identifier": "3c830ecc-4648-4e3b-89a2-80bdb77f968c",
+            "title": "Beef steak",
+            "description": "A beefsteak, often called just steak, is a flat cut of beef with parallel faces, usually cut perpendicular to the muscle fibers.",
+            "preparation_time": "60 min.",
+            "isFavorite": false,
+            "image_id": "beef_steak",
+            "ingredients": [
+                {
+                    "title": "beef tenderloin",
+                    "amount": "300 g"
+                },
+                {
+                    "title": "truffle oil",
+                    "amount": "20 g"
+                },
+                {
+                    "title": "rosemary",
+                    "amount": "2 sprigs"
+                },
+                {
+                    "title": "thyme",
+                    "amount": "2 sprigs"
+                },
+                {
+                    "title": "garlic",
+                    "amount": "2 cloves"
+                },
+                {
+                    "title": "chives",
+                    "amount": "10 g"
+                },
+                {
+                    "title": "salad",
+                    "amount": null
+                },
+                {
+                    "title": "salt",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "identifier": "92cdae0b-2635-44a8-a89c-0637b9fbb8a7",
+            "title": "Cinnamon rolls",
+            "description": "A cinnamon roll (also known as cinnamon bun, cinnamon swirl, cinnamon Danish and cinnamon snail) is a sweet roll commonly served in Northern Europe (mainly in Nordic countries, but also in Austria and Germany) and North America. In Sweden it is called kanelbulle, in Denmark it is known as kanelsnegl, in Norway it is known as kanelbolle, skillingsbolle or kanelsnurr, in Finland it is known as korvapuusti, in Iceland it is known as kanilsnúður, and in Estonia it is known as kaneelirull.[1][2][3] In Austria and Germany, it is called Zimtschnecke.",
+            "preparation_time": "180 min.",
+            "isFavorite": false,
+            "image_id": "сinnamon_rolls",
+            "ingredients": [
+                {
+                    "title": "flour",
+                    "amount": "500 g"
+                },
+                {
+                    "title": "baking powder",
+                    "amount": "1 tbsp"
+                },
+                {
+                    "title": "milk (divided)",
+                    "amount": "145 ml"
+                },
+                {
+                    "title": "fresh yeast",
+                    "amount": "42 g"
+                },
+                {
+                    "title": "egg",
+                    "amount": "2"
+                },
+                {
+                    "title": "butter (divided)",
+                    "amount": "190 g"
+                },
+                {
+                    "title": "buttermilk",
+                    "amount": "70 ml"
+                },
+                {
+                    "title": "salt (divided)",
+                    "amount": "0.5 tsp"
+                },
+                {
+                    "title": "vanilla bean",
+                    "amount": "1"
+                },
+                {
+                    "title": "cane sugar",
+                    "amount": "75 g"
+                },
+                {
+                    "title": "cinnamon",
+                    "amount": "20 g"
+                },
+                {
+                    "title": "confectioner's sugar",
+                    "amount": "100 g"
+                },
+                {
+                    "title": "cream cheese",
+                    "amount": "40 g"
+                },
+                {
+                    "title": "flour for dusting",
+                    "amount": null
+                },
+                {
+                    "title": "butter for greasing",
+                    "amount": null
+                }
+            ]
+        },
+        {
+            "identifier": "933c455f-d882-4983-816d-51cd86ad4d90",
+            "title": "Chocolate brownie",
+            "description": "A beefsteak, often called just steak, is a flat cut of beef with parallel faces, usually cut perpendicular to the muscle fibers.",
+            "preparation_time": "40 min.",
+            "isFavorite": false,
+            "image_id": "сhocolate_brownie",
+            "ingredients": [
+                {
+                    "title": "semi-sweet chocolate chips",
+                    "amount": "250 g"
+                },
+                {
+                    "title": "butter",
+                    "amount": "170 ml"
+                },
+                {
+                    "title": "sugar",
+                    "amount": "290 g"
+                },
+                {
+                    "title": "eggs",
+                    "amount": "2"
+                },
+                {
+                    "title": "vanilla extract",
+                    "amount": "2 tsp"
+                },
+                {
+                    "title": "flour",
+                    "amount": "170 g"
+                },
+                {
+                    "title": "sweetened cocoa powder",
+                    "amount": "60 g"
+                },
+                {
+                    "title": "salt",
+                    "amount": "1 tsp"
+                }
+            ]
+        },
+        {
+            "identifier": "60e0b8fe-80a7-45d8-87c4-678508c01da7",
+            "title": "Salad Kartvelia",
+            "description": "Baked eggplant and bell pepper combined with fresh tomatoes and red onions. Perfectly topped with cheese and garlic sauce and garnished with cilantro, tarragon and walnuts.",
+            "preparation_time": "20 min.",
+            "isFavorite": false,
+            "image_id": "salad_kartvelia",
+            "ingredients": [
+                {
+                    "title": "eggplant",
+                    "amount": "120 g"
+                },
+                {
+                    "title": "bell pepper",
+                    "amount": "60 g"
+                },
+                {
+                    "title": "tomato",
+                    "amount": "80 g"
+                },
+                {
+                    "title": "onion",
+                    "amount": "40 g"
+                },
+                {
+                    "title": "cheese garlic sauce",
+                    "amount": "40 ml"
+                },
+                {
+                    "title": "cilantro",
+                    "amount": "15 g"
+                },
+                {
+                    "title": "tarragon",
+                    "amount": "40 g"
+                },
+                {
+                    "title": "english walnut",
+                    "amount": "30 g"
+                }
+            ]
+
+        },
+        {
+            "identifier": "cba16250-157b-4ea3-8fa9-3663f733ceeb",
+            "title": "Khachapuri in Meghrelian style",
+            "description": "Insanely delicious! Khachapuri in Megrelian style! A simple and very tasty recipe!",
+            "preparation_time": "30 min.",
+            "isFavorite": false,
+            "image_id": "khachapuri_in_meghrelian_style",
+            "ingredients": [
+                {
+                    "title": "warm water",
+                    "amount": "100 ml"
+                },
+                {
+                    "title": "warm milk",
+                    "amount": "100 ml"
+                },
+                {
+                    "title": "salt",
+                    "amount": "0.5 tsp"
+                },
+                {
+                    "title": "sugar",
+                    "amount": "1 tbsp"
+                },
+                {
+                    "title": "egg",
+                    "amount": "1 piece"
+                },
+                {
+                    "title": "flour",
+                    "amount": "300 g"
+                },
+                {
+                    "title": "vegetable oil ",
+                    "amount": "4 tbsp"
+                },
+                {
+                    "title": "suluguni cheese",
+                    "amount": "450 g"
+                },
+                {
+                    "title": "egg yolk 1 pcs + milk",
+                    "amount": "1 tbsp"
+                }
+            ]
+        },
+        {
+            "identifier": "a985ccb5-4aa9-406b-8804-d8cb0eca3158",
+            "title": "Khinkali",
+            "description": "Khinkali is a dumpling in Georgian cuisine. It is made of twisted knobs of dough, stuffed with meat, fish or vegetables and spices.",
+            "preparation_time": "195 min.",
+            "isFavorite": false,
+            "image_id": "khinkali",
+            "ingredients": [
+                {
+                    "title": "water",
+                    "amount": "160 ml"
+                },
+                {
+                    "title": "flour",
+                    "amount": "400 g"
+                },
+                {
+                    "title": "salt",
+                    "amount": "0.375 tsp"
+                },
+                {
+                    "title": "ground beef",
+                    "amount": "160 g"
+                },
+                {
+                    "title": "ground pork",
+                    "amount": "160 g"
+                },
+                {
+                    "title": "onion",
+                    "amount": "0.375"
+                },
+                {
+                    "title": "garlic",
+                    "amount": "0.75"
+                },
+                {
+                    "title": "bunch of fresh coriander",
+                    "amount": null
+                },
+                {
+                    "title": "ground cumin",
+                    "amount": "0.375 tsp"
+                },
+                              {
+                    "title": "pepper",
+                    "amount": "0.375 tsp"
+                }
+            ]
+        }
+    ]
+}
+
+
